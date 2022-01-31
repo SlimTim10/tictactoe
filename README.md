@@ -6,3 +6,13 @@ cd tictactoe
 npm i
 node index.js
 ```
+
+For each turn, a single number is given to play in one of the following positions:
+
+```
+1|2|3
+-+-+-
+4|5|6
+-+-+-
+7|8|9
+```
