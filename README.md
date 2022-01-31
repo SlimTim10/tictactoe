@@ -7,7 +7,7 @@ npm i
 node index.js
 ```
 
-For each turn, a single number is given to play in one of the following positions:
+For each turn, a single number must be entered to play in one of the following positions:
 
 ```
 1|2|3
